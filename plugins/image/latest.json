@@ -1,0 +1,10 @@
+{
+  "id": "image",
+  "version": "0.1.0",
+  "tag": "image/v0.1.0",
+  "hostApiVersion": 1,
+  "file": "image-0.1.0.zip",
+  "sha256": "a7de4b6c08c9956298c8d9030b433148a35ae7a0075502ebb99078c752bce416",
+  "size": 4027,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/image%2Fv0.1.0/image-0.1.0.zip"
+}
