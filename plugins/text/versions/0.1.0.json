@@ -1,0 +1,10 @@
+{
+  "id": "text",
+  "version": "0.1.0",
+  "tag": "text/v0.1.0",
+  "hostApiVersion": 1,
+  "file": "text-0.1.0.zip",
+  "sha256": "205816fbf21904414107848a40aea52e927675659ce56f1a3332b4e3862ba53e",
+  "size": 3440,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/text%2Fv0.1.0/text-0.1.0.zip"
+}
