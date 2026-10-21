@@ -1,10 +1,11 @@
 {
   "id": "ai",
-  "version": "0.1.0",
-  "tag": "ai/v0.1.0",
+  "minAppVersion": "0.6.5",
+  "version": "0.1.1",
+  "tag": "ai/v0.1.1",
   "hostApiVersion": 1,
-  "file": "ai-0.1.0.zip",
-  "sha256": "63eb6e469173abba865f8263f3538b0fdfb669321e0482ae526560eefd12c97b",
-  "size": 13337,
-  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/ai%2Fv0.1.0/ai-0.1.0.zip"
+  "file": "ai-0.1.1.zip",
+  "sha256": "a78090133a19b1adf07c0a1754b9edda4c163384d44e93ba57581c4592641f3c",
+  "size": 14274,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/ai%2Fv0.1.1/ai-0.1.1.zip"
 }
