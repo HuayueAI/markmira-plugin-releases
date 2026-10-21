@@ -1,10 +1,11 @@
 {
   "id": "excalidraw",
-  "version": "0.1.0",
-  "tag": "excalidraw/v0.1.0",
+  "minAppVersion": "0.6.0",
+  "version": "0.1.1",
+  "tag": "excalidraw/v0.1.1",
   "hostApiVersion": 1,
-  "file": "excalidraw-0.1.0.zip",
-  "sha256": "058a5495f44e29152a340f9359043209cbf371d621e410ed55942ab766a2e3e9",
-  "size": 2832517,
-  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/excalidraw%2Fv0.1.0/excalidraw-0.1.0.zip"
+  "file": "excalidraw-0.1.1.zip",
+  "sha256": "5d670f1a8885162c8bad6977e279618f55479f0037379f53b06b572eb6ba8911",
+  "size": 2832546,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/excalidraw%2Fv0.1.1/excalidraw-0.1.1.zip"
 }
