@@ -1,0 +1,11 @@
+{
+  "id": "image",
+  "minAppVersion": "0.6.0",
+  "version": "0.1.1",
+  "tag": "image/v0.1.1",
+  "hostApiVersion": 1,
+  "file": "image-0.1.1.zip",
+  "sha256": "bd9d620dc87605cc7b54dbc18bd66d2e3593fa72f73e0b8467e1a8d9f671363d",
+  "size": 4057,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/image%2Fv0.1.1/image-0.1.1.zip"
+}
