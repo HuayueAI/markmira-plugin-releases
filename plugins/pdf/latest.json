@@ -1,10 +1,11 @@
 {
   "id": "pdf",
-  "version": "0.1.0",
-  "tag": "pdf/v0.1.0",
+  "minAppVersion": "0.6.0",
+  "version": "0.1.1",
+  "tag": "pdf/v0.1.1",
   "hostApiVersion": 1,
-  "file": "pdf-0.1.0.zip",
-  "sha256": "ac8bec73ea1311d0bee375d202060f4d3512ca564b8b82be2727bb3cebf78e92",
-  "size": 10914916,
-  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/pdf%2Fv0.1.0/pdf-0.1.0.zip"
+  "file": "pdf-0.1.1.zip",
+  "sha256": "64e756e0f37310b486445c8cabc7f402c73ef89c4335a22aefc2480f2c5fee98",
+  "size": 10914945,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/pdf%2Fv0.1.1/pdf-0.1.1.zip"
 }
