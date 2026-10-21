@@ -1,0 +1,11 @@
+{
+  "id": "ai",
+  "minAppVersion": "0.6.5",
+  "version": "0.1.2",
+  "tag": "ai/v0.1.2",
+  "hostApiVersion": 1,
+  "file": "ai-0.1.2.zip",
+  "sha256": "9c16580f350004ffb8d31fb5ba974598bb4699e34dab61b285805b6b40b14f88",
+  "size": 14333,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/ai%2Fv0.1.2/ai-0.1.2.zip"
+}
