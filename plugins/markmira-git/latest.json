@@ -1,0 +1,11 @@
+{
+  "id": "markmira-git",
+  "minAppVersion": "0.6.13",
+  "version": "0.2.0",
+  "tag": "markmira-git/v0.2.0",
+  "hostApiVersion": 1,
+  "file": "markmira-git-0.2.0.zip",
+  "sha256": "e70c8d1dbb2020d74d7cc7a6e4d7bae6ee334ab370e3a58aec41a9db20b8fe45",
+  "size": 187263,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/markmira-git%2Fv0.2.0/markmira-git-0.2.0.zip"
+}
