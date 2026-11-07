@@ -5,5 +5,21 @@
   "image",
   "markmira-git",
   "pdf",
-  "text"
+  "text",
+  "theme-academic-paper",
+  "theme-drake",
+  "theme-drake-ayu",
+  "theme-drake-black",
+  "theme-drake-dark",
+  "theme-drake-google",
+  "theme-drake-jb",
+  "theme-drake-juejin",
+  "theme-drake-light",
+  "theme-drake-material",
+  "theme-drake-purple",
+  "theme-drake-vue",
+  "theme-drake-vue3",
+  "theme-github-dark",
+  "theme-github-light",
+  "theme-newsprint"
 ]
