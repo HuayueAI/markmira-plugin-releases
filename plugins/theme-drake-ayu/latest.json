@@ -1,0 +1,11 @@
+{
+  "id": "theme-drake-ayu",
+  "minAppVersion": "0.8.0",
+  "version": "0.1.0",
+  "tag": "theme-drake-ayu/v0.1.0",
+  "hostApiVersion": 1,
+  "file": "theme-drake-ayu-0.1.0.zip",
+  "sha256": "063dcf8b1ca5ffa367864da82942a23623ee782810c4cfeb3534dbb0a9a7fa9f",
+  "size": 403754,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/theme-drake-ayu%2Fv0.1.0/theme-drake-ayu-0.1.0.zip"
+}
