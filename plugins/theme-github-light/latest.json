@@ -1,0 +1,11 @@
+{
+  "id": "theme-github-light",
+  "minAppVersion": "0.8.0",
+  "version": "0.1.0",
+  "tag": "theme-github-light/v0.1.0",
+  "hostApiVersion": 1,
+  "file": "theme-github-light-0.1.0.zip",
+  "sha256": "2851ec308ac554b0659a64d7a07623ba7a41ffb58f641ee49fe9ed8d41e21569",
+  "size": 72780,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/theme-github-light%2Fv0.1.0/theme-github-light-0.1.0.zip"
+}
