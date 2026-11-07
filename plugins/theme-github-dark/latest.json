@@ -1,0 +1,11 @@
+{
+  "id": "theme-github-dark",
+  "minAppVersion": "0.8.0",
+  "version": "0.1.0",
+  "tag": "theme-github-dark/v0.1.0",
+  "hostApiVersion": 1,
+  "file": "theme-github-dark-0.1.0.zip",
+  "sha256": "2a39b504b4d2cd3554b45e307d9d2690dac67afdda5484f139abd9763adff10f",
+  "size": 76289,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/theme-github-dark%2Fv0.1.0/theme-github-dark-0.1.0.zip"
+}
