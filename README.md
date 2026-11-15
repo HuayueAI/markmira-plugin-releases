@@ -8,9 +8,7 @@
 | --- | --- | --- |
 | drawio | 本地 draw.io 流程图编辑器 | `drawio/v0.1.0` |
 | excalidraw | 手绘白板 | `excalidraw/v0.1.0` |
-| image | 图片查看 | `image/v0.1.0` |
 | pdf | PDF 阅读与侧栏 | `pdf/v0.1.0` |
-| text | 纯文本编辑 | `text/v0.1.0` |
 
 所有插件独立使用语义化版本。发布某个插件不会更新其他插件；已发布版本不覆盖，修复时发布新版本。
 
