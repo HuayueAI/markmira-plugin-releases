@@ -1,0 +1,11 @@
+{
+  "id": "theme-drake-google",
+  "minAppVersion": "0.9.0",
+  "version": "0.1.1",
+  "tag": "theme-drake-google/v0.1.1",
+  "hostApiVersion": 1,
+  "file": "theme-drake-google-0.1.1.zip",
+  "sha256": "73cbe9c4b974384b2a9621f8916498a99499cf41c61a429f634e26934e14b41d",
+  "size": 387584,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/theme-drake-google%2Fv0.1.1/theme-drake-google-0.1.1.zip"
+}
