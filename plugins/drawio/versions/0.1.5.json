@@ -1,0 +1,11 @@
+{
+  "id": "drawio",
+  "minAppVersion": "0.6.12",
+  "version": "0.1.5",
+  "tag": "drawio/v0.1.5",
+  "hostApiVersion": 1,
+  "file": "drawio-0.1.5.zip",
+  "sha256": "e59ca15d513ee3d319f3938dbcebc5a96e84e62f5bb0a838c8da76734021be35",
+  "size": 45262979,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/drawio%2Fv0.1.5/drawio-0.1.5.zip"
+}
