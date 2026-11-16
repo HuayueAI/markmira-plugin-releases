@@ -1,0 +1,11 @@
+{
+  "id": "theme-drake",
+  "minAppVersion": "0.9.0",
+  "version": "0.1.1",
+  "tag": "theme-drake/v0.1.1",
+  "hostApiVersion": 1,
+  "file": "theme-drake-0.1.1.zip",
+  "sha256": "cbdc439a887bf7901a6190640d799a6a66c7faf792a55a84ac143eba7e929c0a",
+  "size": 383529,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/theme-drake%2Fv0.1.1/theme-drake-0.1.1.zip"
+}
