@@ -1,11 +1,11 @@
 {
   "id": "theme-newsprint",
-  "minAppVersion": "0.8.0",
-  "version": "0.1.0",
-  "tag": "theme-newsprint/v0.1.0",
+  "minAppVersion": "0.9.0",
+  "version": "0.1.1",
+  "tag": "theme-newsprint/v0.1.1",
   "hostApiVersion": 1,
-  "file": "theme-newsprint-0.1.0.zip",
-  "sha256": "0f2155a2d717e6b703c15d3921955e394833919c36fde3b7b31d1b764259da48",
-  "size": 68073,
-  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/theme-newsprint%2Fv0.1.0/theme-newsprint-0.1.0.zip"
+  "file": "theme-newsprint-0.1.1.zip",
+  "sha256": "df063c1b86c072af97d9fc578ac7ec6786284c003b212e1d6571df326db29733",
+  "size": 68689,
+  "downloadUrl": "https://github.com/HuayueAI/markmira-plugin-releases/releases/download/theme-newsprint%2Fv0.1.1/theme-newsprint-0.1.1.zip"
 }
